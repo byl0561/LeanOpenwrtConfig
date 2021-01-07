@@ -1,1 +1,3 @@
 # LeanOpenwrtConfig
+
+个人使用的基于Lean的二次开发版本的稳定版OpenWrt配置
