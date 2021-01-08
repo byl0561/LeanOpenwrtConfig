@@ -14,5 +14,5 @@ make -j1 V=s
 
 cp -r ./bin/targets ../targets
 
-make distclean
+make clean
 cd ..
