@@ -2,6 +2,10 @@
 
 个人使用的基于Lean的二次开发版本的稳定版OpenWrt配置
 
+## 选择的插件
+
+![main-left](./img/main-left.png)
+
 ## 使用方式
 
 运行
