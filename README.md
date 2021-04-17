@@ -4,7 +4,7 @@
 
 ## 选择的插件
 
-![main-left](./img/main-left.png)
+![main-left](./main-left.png)
 
 ## 使用方式
 
