@@ -1,3 +1,5 @@
+# scripts/diffconfig.sh >mydiffconfig
+
 git clone https://github.com/coolsnowwolf/openwrt.git
 cp ./defconfig ./openwrt/defconfig
 
